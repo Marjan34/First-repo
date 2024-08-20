@@ -1,0 +1,19 @@
+.para2{
+    margin: 30px;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+ a{
+    
+    text-align: left;
+}
+a:hover{
+    background-color: rgb(185, 185, 241);
+   
+}
+button{
+    background-color: rgb(176, 168, 168);
+   
+}
