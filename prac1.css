@@ -21,3 +21,29 @@ textarea{
     height: 60px;
     width: 300px;
 }
+.sub{
+    margin-top: 20px;
+}
+.tb{
+    margin-top: 20px;
+}
+table{
+    border-collapse: collapse;
+
+    
+}
+tr, th, td{
+    border: 1px solid black;
+    padding: 15px;
+}
+.tb{
+     background-color: rgb(240, 229, 171);
+    height: 456px;
+    width: 280px; 
+  
+   
+    
+}   
+.tb, .cap{
+    text-align: center;
+}
