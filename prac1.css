@@ -17,3 +17,7 @@ button{
     background-color: rgb(176, 168, 168);
    
 }
+textarea{
+    height: 60px;
+    width: 300px;
+}
